@@ -8,7 +8,7 @@ namespace cpptest {
      */
     //% blockId="extfun" block="%a| + %b" 
     int extfun(int x, int y) {
-        int a = x + y
+        int a = x + y;
         return a;
     }
 }
